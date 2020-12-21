@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Navbar = () => {
-    return <nav className='nav'>
+  return <nav className='nav'>
     <div>
       <a>Profile</a>
     </div>
